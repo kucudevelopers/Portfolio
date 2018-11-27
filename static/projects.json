@@ -1,0 +1,17 @@
+
+{
+    "projects": [
+        {
+            "image" :"https://www.visualswirl.com/wp-content/uploads/2011/01/http_www.longhollow.com_.jpg",
+            "name": "Kenyatta University Christian Union Website",
+            "link":"www.kuchristianunion.org",
+            "details": "This is the Kenyatta University Christian Uinon Main Campus Website. It's one of our pioneer projects we started with in late 2017."
+        },
+        {
+            "image" :"https://www.visualswirl.com/wp-content/uploads/2011/01/http_www.longhollow.com_.jpg",
+            "name": "KUCU Bible Study Management System",
+            "link":"www.bskuchristianunion.org",
+            "details": "This is the Kenyatta University Christian Uinon Main Campus Website. It's one of our pioneer projects we started with in late 2017."
+        }
+    ]
+}

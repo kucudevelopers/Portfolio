@@ -1,0 +1,27 @@
+
+{
+    "teams": [
+        {
+            "image" :"https://media.licdn.com/dms/image/C5103AQExTqPoVc3EkQ/profile-displayphoto-shrink_200_200/0?e=1548288000&v=beta&t=YqM0ZCw-UuOvgGgctgXF5QwWrHAVu9Y2d_-SGaPFNHk",
+            "name": "Samuel Barasa",
+            "title":"Software Developer",
+            "social": {
+                "website":"https://domanisamuel.github.io/Portofolio/",
+                "github":"https://github.com/domanisamuel",
+                "twitter":"https://twitter.com/domani_samuel"
+            },
+            "details": "I Design user interfaces, I write code, I love solving problems using technology and making a better experience for humanity."
+        },
+        {
+            "image" :"https://pbs.twimg.com/profile_images/971711766475558912/t5ZIiVJL_400x400.jpg",
+            "name": "Eric Odhiambo",
+            "title":"Web Developer",
+            "social": {
+                "website":"https://ericouma.github.io/iUnda/",
+                "github":"https://github.com/ErikOuma",
+                "twitter":"https://twitter.com/Eric49JS"
+            },
+            "details": "This is an amazing product. It's to suit your requirementsThis is an amazing product. It's to suit your requirementsThis is an amazing product. It's to suit your requirementsThis is an amazing product. It's to suit your requirementsThis is an amazing product. It's to suit your requirements"
+        }
+    ]
+}
